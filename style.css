@@ -1,0 +1,43 @@
+body{  
+    background-image: url(9c0722106004343.5f85fead2894a.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: cover;
+    margin: 0;
+    margin-top: 20px;
+}
+#user_input{
+    font-size: 30px;
+    border: none;
+    border-radius: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 115px;
+   
+}
+h1{
+    color: white;
+    font-size: 40px;
+}
+#number{
+    font-size: 50px;
+}
+#result{
+    font-size: 50px;
+    color: white;
+}
+button{
+    font-size: 25px;
+    background-color: lightblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    margin: 50px;
+    padding: 10px;
+    width: 150px;
+    border: none;
+    border-radius: 20px;
+}
+button:hover{
+    color: white;
+    background-color: blue;
+}
